@@ -1,1 +1,2 @@
-# SOC-Tutorial
+# Stochastic Optimal Control Tutorial
+In this tutorial, we solve one of the classic reinforcement learning problems, the inverted pendulum using the novel equation-informed approach. Using Bellman's principle of optimality, a partial differential equation known as Hamilton-Jacobi-Bellman equation can be derived, which motivates the application of equation-informed approach as an alternative to deep reinforcement learning in solving the stochastic control problem.
